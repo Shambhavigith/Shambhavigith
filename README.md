@@ -70,6 +70,12 @@ AI & Machine Learning Enthusiast | Java Developer | Open Source Learner
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/Shambhavigith/Shambhavigith/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌐 Connect with Me
 
 📧 Email: shambhaviisingh9@gmail.com
