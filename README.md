@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shambhavi Singh</h1>
 
-<h3 align="center">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Java+Developer;Open+Source+Learner;Building+Projects+One+Commit+at+a+Time" />
+</p>
 AI & Machine Learning Enthusiast | Java Developer | Open Source Learner
 </h3>
 
